@@ -1,0 +1,114 @@
+[33mcommit 20c36dd52eba561c2880a338e52fafbdcc5fcfb3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: b6b023d 072a3d2
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 27 15:25:05 2023 +0200
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       song.txt
+
+[33mcommit 072a3d20f6379b4a2d73dc08575928197a53c9ba[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 27 15:19:28 2023 +0200
+
+    third verse
+
+[33mcommit b6b023d675080556099e325d9f0cd20007090a7f[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 27 15:16:52 2023 +0200
+
+    2nd couplete
+
+[33mcommit c2c0140ce52251963433f3d18dd5958448037e29[m
+Merge: 8712148 4cc8618
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 16:14:00 2023 +0200
+
+    Merge branch 'feature'
+
+[33mcommit 4cc8618d60f9f32857eec793ac4e4c9fa751e558[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 16:13:14 2023 +0200
+
+    remove 2 verses
+
+[33mcommit 871214816245c4904fc180b559364a53ea151d0e[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 16:11:16 2023 +0200
+
+    master commit
+
+[33mcommit 18fece36591097afa1834f34d05bf43ec47f5a47[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 15:58:11 2023 +0200
+
+    adding third coup.
+
+[33mcommit dd8ac60c0384a0d98679ceec4923de7d7f54ad67[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 15:55:02 2023 +0200
+
+    adding second coup.
+
+[33mcommit f5759fe5a12ddc61387921a33da0251693656a12[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 15:31:14 2023 +0200
+
+    adding some files
+
+[33mcommit 51f6add475e045293cb11c623d21bd5257922b7a[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 20 15:30:01 2023 +0200
+
+    Revert "is this on?"
+    
+    This reverts commit 8bdfa23b031ecac6c3d674c69797d3f7dc5ba94a.
+
+[33mcommit 8bdfa23b031ecac6c3d674c69797d3f7dc5ba94a[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Wed Jul 19 17:05:47 2023 +0200
+
+    is this on?
+
+[33mcommit 36a195a34f9b077b5ad599d9012b3fdcca060f74[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Wed Jul 19 16:47:35 2023 +0200
+
+    let's do this
+
+[33mcommit 7f98b52eb48f161be9fa1cfcd389ab4203b1e9a2[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Wed Jul 19 16:20:25 2023 +0200
+
+    finish second part
+
+[33mcommit 3d614743662cbb35b4427e56804c05dd863d06ff[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 13 16:46:43 2023 +0200
+
+    new couplet!
+
+[33mcommit 8e28ddbd77141460ef1a67647258dee723fea8e2[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Thu Jul 13 14:56:08 2023 +0200
+
+    add two more lines to my song
+
+[33mcommit ad7aa7891a2cd7019695562c79e58d345d1a792f[m
+Author: m-szymus <100950646+m-szymus@users.noreply.github.com>
+Date:   Thu Jul 13 14:40:37 2023 +0200
+
+    add two more lines to the song
+
+[33mcommit 310a9e81e58ed5d0387eb638a0c9e0b0837080db[m
+Author: Michal Szymus <Michal_Szymus@epam.com>
+Date:   Wed Jul 12 17:05:24 2023 +0200
+
+    add first 2 lines in the song
+
+[33mcommit 62db38713e39b1f84e3c719bd3f6a0386bb216f5[m
+Author: m-szymus <100950646+m-szymus@users.noreply.github.com>
+Date:   Wed Jul 12 16:16:06 2023 +0200
+
+    Initial commit
